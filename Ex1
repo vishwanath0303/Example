@@ -1,7 +1,8 @@
-<h1> hi </h1>
-<h2>Hello</h2>
-<<<<<<< HEAD
-<h1>gi</h1>
-=======
-<h3> ji</h3>
->>>>>>> master
+<html>
+  <head>
+    <title>Img Src Attribute Example</title>
+  </head>
+  <body>
+    <img src="https://avatars0.githubusercontent.com/u/9892522?v=4&s=400" />
+  </body>
+</html>
